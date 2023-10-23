@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Tela Inicial.unity
+    guid: 4bdbb253238d5b241ba3f2cc6b3abed6
+  - enabled: 1
+    path: "Assets/Scenes/Introdu\xE7\xE3o.unity"
+    guid: 16ae0a5be6f02f24c84f63590d2ecf0b
+  - enabled: 1
+    path: Assets/Scenes/Jogo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 3f0da97d268067342925a969008f3eeb
+  - enabled: 1
+    path: Assets/Scenes/Config.unity
+    guid: 8444cdf8c8b6f0142b5ebb78caaec7e4
+  - enabled: 1
+    path: Assets/Scenes/Jogo 1.unity
+    guid: 8a631318bddd4f840b9badcecd3185a1
+  m_configObjects: {}
